@@ -72,7 +72,7 @@ Project website: https://stake2care.msf.ch/
 # ++ Profile on contests platform
 
 <aside>
-💡 Some new findings may come in the next days (30/08/2024)
+💡 Some new findings may come in the next days (11/09/2024)
 
 </aside>
 
