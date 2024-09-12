@@ -59,7 +59,7 @@ Website: https://lay3rs.io/
 🚧 Project still on development and code is not available.
 </aside>
 
-[Black Paper - Audit FdJ - 2nd review.pdf](https://github.com/Black-Paper-xyz/Audits/blob/3bbb7ef6f55fa1ad7f1c19af5b3cd72f87869502/FDJ%20Report.pdf)
+[Black Paper - Audit FdJ - 2nd review.pdf](https://github.com/Black-Paper-xyz/Audits/blob/71553b74f95cfdbb26d474f3b2c9b9f4d62782a7/FDJ.pdf)
 
 # Stake2Care - Doctors Without Borders + Arab Bank of Switzerland
 
