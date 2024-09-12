@@ -10,7 +10,7 @@ Audit: https://mintera.co/wp-content/uploads/2023/06/Audit-Mintera-Black-Paper.p
 
 Documentation: https://docs.cloprnft.com/faq/about-trust
 
-Audit: https://1149723396-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/PkoqObPq3fmTeXwI82aA/uploads/Faw6dZkOHKruFlolBDhI/technical_audit.pdf?alt=media&token=34c91c9d-b6bc-4b67-b143-3ce4edf898df
+Audit: [https://1149723396-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/PkoqObPq3fmTeXwI82aA/uploads/Faw6dZkOHKruFlolBDhI/technical_audit.pdf?alt=media&token=34c91c9d-b6bc-4b67-b143-3ce4edf898df](https://github.com/Black-Paper-xyz/Audits/blob/3bbb7ef6f55fa1ad7f1c19af5b3cd72f87869502/CLOPR.pdf)
 
 # Omega
 
@@ -18,7 +18,7 @@ Audit: https://1149723396-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.c
 💡 The code was already audited. Did not find anything really revelant
 </aside>
 
-[Black Paper - Audit Omega.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f4cd516-b9b8-4b13-b9d9-072463b06bbe/d85b2e80-2a69-43ca-853e-72a9ea7a5fb4/Black_Paper_-_Audit_Omega_(2).pdf)
+[Black Paper - Audit Omega.pdf](https://github.com/Black-Paper-xyz/Audits/blob/3bbb7ef6f55fa1ad7f1c19af5b3cd72f87869502/OMEGA.pdf)
 
 # Degens
 
@@ -26,7 +26,7 @@ Audit: https://1149723396-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.c
 🚨 The code audited was Solang. An alternative to rust for Solana projects.
 </aside>
 
-[Black Paper - Audit Degens.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f4cd516-b9b8-4b13-b9d9-072463b06bbe/daa568f0-bad2-4c6d-a40f-9c6a93cfe21c/Black_Paper_-_Audit_Degens.pdf)
+[Black Paper - Audit Degens.pdf](https://github.com/Black-Paper-xyz/Audits/blob/3bbb7ef6f55fa1ad7f1c19af5b3cd72f87869502/DEGENS.pdf)
 
 # Greenercoin token
 
@@ -43,37 +43,34 @@ Audit: https://www.greenercoin.io/wp-content/uploads/2023/05/Black-Paper-Audit-G
 
 Website: https://lay3rs.io/
 
-[Black Paper - Audit Lay3rs - 2nd review.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f4cd516-b9b8-4b13-b9d9-072463b06bbe/809dffbb-4bfc-4e71-ae78-72cc4787074b/Black_Paper_-_Audit_Lay3rs_-_2nde_review_(3).pdf)
+[Black Paper - Audit Lay3rs - 2nd review.pdf](https://github.com/Black-Paper-xyz/Audits/blob/3bbb7ef6f55fa1ad7f1c19af5b3cd72f87869502/LAY3RS.pdf)
 
 # Doors3
 
 <aside>
 💡 Internal audit done for free. The vulnerabilities description are usually more precise.
-
 </aside>
 
-[Black Paper - Audit Doors3.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f4cd516-b9b8-4b13-b9d9-072463b06bbe/060b02d6-56ed-4eb0-a6f2-e913fd179762/Black_Paper_-_Audit_Doors3_(2).pdf)
+[Black Paper - Audit Doors3.pdf](https://github.com/Black-Paper-xyz/Audits/blob/e63b3b59ab7a6027d5533b2e95b200f1aef04426/DOORS3.pdf)
 
 # Française des Jeux / Developed by Cometh
 
 <aside>
 🚧 Project still on development and code is not available.
-
 </aside>
 
-[Black Paper - Audit FdJ - 2nd review.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f4cd516-b9b8-4b13-b9d9-072463b06bbe/d70dcd11-aad0-4ac2-8229-ddf1cc41d29a/Audit_FdJ_-_Second_review_(1).pdf)
+[Black Paper - Audit FdJ - 2nd review.pdf](https://github.com/Black-Paper-xyz/Audits/blob/3bbb7ef6f55fa1ad7f1c19af5b3cd72f87869502/FDJ%20Report.pdf)
 
 # Stake2Care - Doctors Without Borders + Arab Bank of Switzerland
 
 Project website: https://stake2care.msf.ch/
 
-[Black Paper - Audit Stake2Care - 2nd review.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f4cd516-b9b8-4b13-b9d9-072463b06bbe/434abd2c-6723-460b-881f-4f98c2ef0040/Black_Paper_-_Audit_Stake2Care_-_2nd_review_(1).pdf)
+[Black Paper - Audit Stake2Care - 2nd review.pdf](https://github.com/Cadmos-finance/Stake2Care-sc/blob/eb67626e588c0fedb2c0968147da6cda0f7bf48a/audits/25-06-2024_BlackPaper.pdf)
 
 # ++ Profile on contests platform
 
 <aside>
 💡 Some new findings may come in the next days (11/09/2024)
-
 </aside>
 
 - Sherlock profile: https://audits.sherlock.xyz/watson/japy69
